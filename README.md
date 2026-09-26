@@ -1,2 +1,1 @@
-# personal-website
-a website about me and my friend
+# nah twin u got ts
