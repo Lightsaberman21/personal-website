@@ -1,7 +1,7 @@
 # Personal Website
 This is our personal website which tells you guys information about me and my 2 other friends. 
 
-![description](images/Screenshot_20260928_203608_Chrome.jpg)
+![description](images/Screenshot_20260929_055616_Chrome.jpg)
 
 Check out the Website! (https://maali666000-ctrl.github.io/personal-website/)
 
