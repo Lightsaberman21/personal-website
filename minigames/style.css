@@ -1,0 +1,13 @@
+body {
+    background-color: #ccc123;
+}
+
+#Flappy {
+    border: none;
+    background-color: blue;
+    cursor: pointer;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+}
