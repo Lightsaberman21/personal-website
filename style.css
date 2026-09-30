@@ -20,6 +20,19 @@ h2 {
 
 }
 
+button {
+    background-color: #007bff; 
+    color: white;              
+    padding: 10px 20px;        
+    border: none;              
+    font-size: 16px;           
+    cursor: pointer;           
+}
+
+button:hover {
+    background-color: #0056b3; 
+}
+
 p {
     opacity: 0;
     transform: translateY(20px);
