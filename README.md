@@ -3,7 +3,7 @@ This is our personal website which tells you guys information about me and my 2 
 
 ![description](images/Screenshot_20260929_055616_Chrome.jpg)
 
-Check out the Website! (https://maali666000-ctrl.github.io/personal-website/)
+Check out the Website! (http://lightsabersite.org)
 
 This websites features are:
 - It has a fade in animation
