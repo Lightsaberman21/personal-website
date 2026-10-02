@@ -6,6 +6,7 @@ This is our personal website which tells you guys information about me and my 2 
 Check out the Website! (http://lightsabersite.org)
 
 This websites features are:
+- It has 2 minigames (Pong and Flappy bird) which you can open in the minigames section in the bottom of the home page website
 - It has a fade in animation
 - We changed the font rather than using the default html
 - we also changed the background color
