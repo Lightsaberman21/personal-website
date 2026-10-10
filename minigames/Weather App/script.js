@@ -40,7 +40,7 @@ async function CheckWeather(city) {
         weatherDesc.textContent = description;
         temprature.textContent = `${current.temperature_2m}°C`; 
         humidity.textContent = `${current.relative_humidity_2m}%`;
-        windSpeed.textContent = `${current.wind_speed_10m} km/h`;
+        windSpeed.textContent = `${current.wind_speed_10m} km/h`;   
 
         weatherInfo.classList.remove('hidden');
         errorMessage.classList.add('hidden');
